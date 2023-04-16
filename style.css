@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 16px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
